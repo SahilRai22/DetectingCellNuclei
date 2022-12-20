@@ -6,18 +6,24 @@ Within the field of biological sciences, there is various work done involving in
 <img width="421" alt="Screenshot 2022-12-20 at 13 24 55" src="https://user-images.githubusercontent.com/4998533/208677585-65633aa7-9575-4ccb-a966-416f3f877e07.png">
 </p>
 <p align="center" >
-![Screenshot 2022-12-14 at 01 21 20](https://user-images.githubusercontent.com/4998533/207481528-af5f14a7-39dc-4452-b446-cd0dd76b366e.png)
+<img width="420" alt="Screenshot 2022-12-20 at 13 25 35" src="https://user-images.githubusercontent.com/4998533/208677680-506538f2-efdb-4de8-bfba-367ed8a413b3.png">
 </p>
 <p align="center" >
-![Screenshot 2022-12-14 at 01 21 28](https://user-images.githubusercontent.com/4998533/207481546-2b28464d-10d0-437d-b7de-d37c3b9dcd22.png)
+<img width="419" alt="Screenshot 2022-12-20 at 13 25 41" src="https://user-images.githubusercontent.com/4998533/208677696-1a80e7c2-074e-4d41-924b-20e7db56e0a9.png">
 </p>
 <p align="center" >
-![Screenshot 2022-12-14 at 01 21 35](https://user-images.githubusercontent.com/4998533/207481565-acfafdca-6fb5-4b86-848c-93acfd12b577.png)
+<img width="405" alt="Screenshot 2022-12-20 at 13 25 49" src="https://user-images.githubusercontent.com/4998533/208677721-b5e4dfbe-f56c-47c2-adc6-f65fc53486cc.png">
 </p>
 <p align="center" >
-![Screenshot 2022-12-14 at 01 21 43](https://user-images.githubusercontent.com/4998533/207481581-0599f1bb-6572-44cb-b8bf-7705f8d4f9e2.png)
+<img width="441" alt="Screenshot 2022-12-20 at 13 25 58" src="https://user-images.githubusercontent.com/4998533/208677751-ab485b48-e86b-4517-ac97-867ba6e9e319.png">
 </p>
 <p align="center" >
-![Screenshot 2022-12-14 at 01 21 47](https://user-images.githubusercontent.com/4998533/207481593-3d1cbd84-658d-432d-8650-c82cbbc287b9.png)
+ <img width="422" alt="Screenshot 2022-12-20 at 13 26 05" src="https://user-images.githubusercontent.com/4998533/208677787-c8098415-80ab-497e-9e13-c0fa4e43ff3e.png">
 </p>
+  
+  
+  
+  
+
+
 
