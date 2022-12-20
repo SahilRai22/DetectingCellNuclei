@@ -3,7 +3,7 @@
 Within the field of biological sciences, there is various work done involving in- vestigative measures on microscopic images. These images, will often need to be further analysed through Image processing. We can find that the Matlab Image Processing Toolbox provides necessary facilities to solve real world problems. In this report we will be using Matlab to change image data.
 
 <p align="center" >
-![Screenshot 2022-12-14 at 01 21 11](https://user-images.githubusercontent.com/4998533/207481512-6aa1ccab-eef9-4ebe-a83a-493e5e932b9c.png)
+<img width="421" alt="Screenshot 2022-12-20 at 13 24 55" src="https://user-images.githubusercontent.com/4998533/208677585-65633aa7-9575-4ccb-a966-416f3f877e07.png">
 </p>
 <p align="center" >
 ![Screenshot 2022-12-14 at 01 21 20](https://user-images.githubusercontent.com/4998533/207481528-af5f14a7-39dc-4452-b446-cd0dd76b366e.png)
